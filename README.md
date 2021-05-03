@@ -7,3 +7,5 @@ My university allows for switching classes at the end of every semester. Unfortu
 The program will capture the screen as fast as possible.
 noCourse.png is the input image for the program. If it cannot found on the screen, It's mean the website has changed and it will play the alert.mp3.
 Although the okaysound.mp3 is unused. I have a plan to program it so it will play every 2 minutes so that I can make sure the program is working probably while doing other things.
+## Requirement for installation
+You may need to install the "pyautogui" library to able to compile the project as well as any other missing components
